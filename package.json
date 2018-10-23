@@ -1,0 +1,11 @@
+{
+  "name": "icecream",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "aws-sdk": "^2.340.0",
+    "claudia-api-builder": "^4.1.1"
+  }
+}
